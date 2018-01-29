@@ -8,31 +8,31 @@ int main()
     scanf("%d",&wDay);
      
     switch(wDay)
-    {
-        case 0: 
+    {ad
+        case 0: das d
             printf("Sunday");
             break;
-        case 1: 
+        case 1:  sda s
             printf("Monday");
-            break;
+            break;as d
         case 2: 
-            printf("Tuesday");
+            printf("Tuesday");da
             break;
-        case 3: 
-            printf("Wednesday");
+        case 3: as
+            printf("Wednesday");as 
             break;
-        case 4: 
+        case 4: asd
             printf("Thursday");
             break;
-        case 5: 
+        case 5: das 
             printf("Friday");
-            break;
+            break;d as d
         case 6: 
-            printf("Saturday");
+            printf("Saturdaasd asy");
             break;
         default:
-            printf("Invalid weekday number.");
+            printf("Invalid weekday number.x");da s
     }
     printf("\n");
     return 0;
-}
+} asda dadda sd 
